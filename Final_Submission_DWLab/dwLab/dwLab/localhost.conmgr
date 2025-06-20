@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost"
+  DTS:DTSID="{376BD1DD-FF0B-4DED-8464-E419444B909B}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=localhost;User ID=;Initial Catalog=DWLab;Provider=MSOLEDBSQL.1;Persist Security Info=False;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-dwLab-{376BD1DD-FF0B-4DED-8464-E419444B909B}localhost;Initial File Name=;Server SPN=;Authentication=;Access Token=;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
